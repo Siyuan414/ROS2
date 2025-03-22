@@ -1,0 +1,24 @@
+[0.534s] Invoking command in '/home/vboxuser/ros2_ws/build/my_py_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vboxuser/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages:/home/vboxuser/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages:/home/vboxuser/ros2_ws/build/my_py_pkg:/home/vboxuser/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vboxuser/ros2_ws/build/my_py_pkg/build --no-deps symlink_data
+[0.746s] running develop
+[0.876s] running egg_info
+[0.884s] writing my_py_pkg.egg-info/PKG-INFO
+[0.884s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[0.885s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[0.885s] writing requirements to my_py_pkg.egg-info/requires.txt
+[0.885s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[0.908s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.908s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.920s] running build_ext
+[0.920s] Creating /home/vboxuser/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages/my-py-pkg.egg-link (link to .)
+[0.921s] Installing add_two_ints_client script to /home/vboxuser/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.921s] Installing add_two_ints_server script to /home/vboxuser/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.921s] Installing battery script to /home/vboxuser/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.922s] Installing hardware_status_publisher script to /home/vboxuser/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.922s] Installing led_panel script to /home/vboxuser/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.922s] Installing py_node script to /home/vboxuser/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.922s] Installing robot_news_station script to /home/vboxuser/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.922s] Installing smartphone script to /home/vboxuser/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.922s] 
+[0.922s] Installed /home/vboxuser/ros2_ws/build/my_py_pkg
+[0.922s] running symlink_data
+[0.943s] Invoked command in '/home/vboxuser/ros2_ws/build/my_py_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vboxuser/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages:/home/vboxuser/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages:/home/vboxuser/ros2_ws/build/my_py_pkg:/home/vboxuser/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vboxuser/ros2_ws/build/my_py_pkg/build --no-deps symlink_data

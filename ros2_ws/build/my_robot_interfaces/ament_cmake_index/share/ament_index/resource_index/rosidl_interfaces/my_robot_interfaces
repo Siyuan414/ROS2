@@ -1,0 +1,6 @@
+msg/HardwareStatus.idl
+msg/HardwareStatus.msg
+msg/LedStateArray.idl
+msg/LedStateArray.msg
+srv/SetLed.idl
+srv/SetLed.srv

@@ -1,0 +1,25 @@
+[0.525s] Invoking command in '/home/vboxuser/ros2_ws/build/my_py_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vboxuser/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vboxuser/ros2_ws/build/my_py_pkg/build --no-deps symlink_data --force
+[0.747s] running develop
+[0.870s] running egg_info
+[0.881s] writing my_py_pkg.egg-info/PKG-INFO
+[0.881s] writing dependency_links to my_py_pkg.egg-info/dependency_links.txt
+[0.882s] writing entry points to my_py_pkg.egg-info/entry_points.txt
+[0.882s] writing requirements to my_py_pkg.egg-info/requires.txt
+[0.882s] writing top-level names to my_py_pkg.egg-info/top_level.txt
+[0.906s] reading manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.906s] writing manifest file 'my_py_pkg.egg-info/SOURCES.txt'
+[0.919s] running build_ext
+[0.919s] Creating /home/vboxuser/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages/my-py-pkg.egg-link (link to .)
+[0.920s] Installing add_two_ints_client script to /home/vboxuser/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.920s] Installing add_two_ints_server script to /home/vboxuser/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.920s] Installing hardware_status_publisher script to /home/vboxuser/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.920s] Installing led_panel script to /home/vboxuser/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.920s] Installing py_node script to /home/vboxuser/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.920s] Installing robot_news_station script to /home/vboxuser/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.920s] Installing smartphone script to /home/vboxuser/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[0.921s] 
+[0.921s] Installed /home/vboxuser/ros2_ws/build/my_py_pkg
+[0.921s] running symlink_data
+[0.921s] symbolically linking /home/vboxuser/ros2_ws/build/my_py_pkg/resource/my_py_pkg -> /home/vboxuser/ros2_ws/install/my_py_pkg/share/ament_index/resource_index/packages
+[0.921s] symbolically linking /home/vboxuser/ros2_ws/build/my_py_pkg/package.xml -> /home/vboxuser/ros2_ws/install/my_py_pkg/share/my_py_pkg
+[0.942s] Invoked command in '/home/vboxuser/ros2_ws/build/my_py_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vboxuser/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vboxuser/ros2_ws/build/my_py_pkg/build --no-deps symlink_data --force

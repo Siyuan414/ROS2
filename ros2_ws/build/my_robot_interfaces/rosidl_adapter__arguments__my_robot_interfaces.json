@@ -1,0 +1,8 @@
+{
+  "package_name": "my_robot_interfaces",
+  "non_idl_tuples": [
+    "/home/vboxuser/ros2_ws/src/my_robot_interfaces:msg/HardwareStatus.msg",
+    "/home/vboxuser/ros2_ws/src/my_robot_interfaces:msg/LedStateArray.msg",
+    "/home/vboxuser/ros2_ws/src/my_robot_interfaces:srv/SetLed.srv"
+  ]
+}
